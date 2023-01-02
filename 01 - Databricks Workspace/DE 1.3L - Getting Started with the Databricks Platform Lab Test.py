@@ -2,6 +2,7 @@
 # MAGIC %md-sandbox
 # MAGIC 
 # MAGIC <div style="text-align: center; line-height: 0; padding-top: 9px;">
+# MAGIC  
 # MAGIC   <img src="https://databricks.com/wp-content/uploads/2018/03/db-academy-rgb-1200px.png" alt="Databricks Learning" style="width: 600px">
 # MAGIC </div>
 
@@ -131,6 +132,17 @@ display(example_df)
 # MAGIC * A header
 # MAGIC * Bullet points
 # MAGIC * A link (using your choice of HTML or Markdown conventions)
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC 
+# MAGIC # Markdown example
+# MAGIC - One
+# MAGIC - Two
+# MAGIC - Three 
+# MAGIC 
+# MAGIC <a href = "https://www.honeybadger.io/blog/python-markdown/" target = "_blank">How to use Markdown </a>
 
 # COMMAND ----------
 

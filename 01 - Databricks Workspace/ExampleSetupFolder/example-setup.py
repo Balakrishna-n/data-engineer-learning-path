@@ -3,8 +3,9 @@
 
 # COMMAND ----------
 
+
 lesson_config = LessonConfig(name = None,
-                             create_schema = True,
+                            create_schema = True,
                              create_catalog = False,
                              requires_uc = False,
                              installing_datasets = True,
@@ -16,10 +17,11 @@ DA.reset_lesson()
 DA.init()
 DA.conclude_setup()
 
+
 # COMMAND ----------
 
 # TODO
-my_name = None
+my_name = "Apple"
 
 # COMMAND ----------
 
